@@ -1,4 +1,4 @@
-# RED HAT DECISION MANAGER 7 - A OPTAPLANNER DEMO PROJECT
+# RED HAT DECISION MANAGER 7 - AN OPTAPLANNER DEMO PROJECT
 
 ## USE CASE
 
@@ -49,14 +49,14 @@ body:
   "com.myspace.plannerdemo.Solution": {
     "computerList": [
       {
-	"name": "Dell Server 1",
+	"name": "RHEL Server 1",
         "cpuPower": 24,
         "memory": 96,
         "networkBandwidth": 16,
         "cost": 4800
       },
       {
-	"name": "Dell Server 2",
+	"name": "RHEL Server 2",
         "cpuPower": 6,
         "memory": 4,
         "networkBandwidth": 6,
