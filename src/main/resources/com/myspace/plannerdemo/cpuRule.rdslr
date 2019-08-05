@@ -1,0 +1,12 @@
+package com.myspace.plannerdemo;
+
+import java.lang.Number;
+
+rule "cpuRule"
+	dialect "mvel"
+	when
+		There is a computer identified by $computer
+		Sum all processes requiredCpuPower that exceeded the cpuPower in $computer and call it $total
+	then
+		Update cpuPower of $computer hard score with $total
+end

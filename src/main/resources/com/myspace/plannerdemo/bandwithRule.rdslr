@@ -1,0 +1,12 @@
+package com.myspace.plannerdemo;
+
+import java.lang.Number;
+
+rule "bandwithRule"
+	dialect "mvel"
+	when
+		There is a computer identified by $computer
+		Sum all processes requiredNetworkBandwidth that exceeded the networkBandwidth in $computer and call it $total
+	then
+		Update networkBandwidth of $computer hard score with $total
+end

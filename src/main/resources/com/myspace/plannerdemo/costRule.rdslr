@@ -1,0 +1,12 @@
+package com.myspace.plannerdemo;
+
+import java.lang.Number;
+
+rule "costRule"
+	dialect "mvel"
+	when
+		There is a computer identified by $computer
+		>exists (Process( computer == ( $computer ) )) 
+	then
+		Update $computer soft score with cost
+end
