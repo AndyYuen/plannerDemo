@@ -121,14 +121,14 @@ status=NOT_SOLVING means this is the best solution.
                   &lt;cost&gt;4800&lt;/cost&gt;
                   &lt;cpuPower&gt;24&lt;/cpuPower&gt;
                   &lt;memory&gt;96&lt;/memory&gt;
-                  &lt;name&gt;Dell Server 1&lt;/name&gt;
+                  &lt;name&gt;RHEL Server 1&lt;/name&gt;
                   &lt;networkBandwidth&gt;16&lt;/networkBandwidth&gt;
             &lt;/computerList&gt;
             &lt;computerList&gt;
                   &lt;cost&gt;660&lt;/cost&gt;
                   &lt;cpuPower&gt;6&lt;/cpuPower&gt;
                   &lt;memory&gt;4&lt;/memory&gt;
-                  &lt;name&gt;Dell Server 2&lt;/name&gt;
+                  &lt;name&gt;RHEL Server 2&lt;/name&gt;
                   &lt;networkBandwidth&gt;6&lt;/networkBandwidth&gt;
             &lt;/computerList&gt;
             &lt;processList&gt;
@@ -136,7 +136,7 @@ status=NOT_SOLVING means this is the best solution.
                         &lt;cost&gt;660&lt;/cost&gt;
                         &lt;cpuPower&gt;6&lt;/cpuPower&gt;
                         &lt;memory&gt;4&lt;/memory&gt;
-                        &lt;name&gt;Dell Server 2&lt;/name&gt;
+                        &lt;name&gt;RHEL Server 2&lt;/name&gt;
                         &lt;networkBandwidth&gt;6&lt;/networkBandwidth&gt;
                   &lt;/computer&gt;
                   &lt;requiredCpuPower&gt;1&lt;/requiredCpuPower&gt;
@@ -148,7 +148,7 @@ status=NOT_SOLVING means this is the best solution.
                         &lt;cost&gt;4800&lt;/cost&gt;
                         &lt;cpuPower&gt;24&lt;/cpuPower&gt;
                         &lt;memory&gt;96&lt;/memory&gt;
-                        &lt;name&gt;Dell Server 1&lt;/name&gt;
+                        &lt;name&gt;RHEL Server 1&lt;/name&gt;
                         &lt;networkBandwidth&gt;16&lt;/networkBandwidth&gt;
                   &lt;/computer&gt;
                   &lt;requiredCpuPower&gt;3&lt;/requiredCpuPower&gt;
@@ -160,7 +160,7 @@ status=NOT_SOLVING means this is the best solution.
                         &lt;cost&gt;4800&lt;/cost&gt;
                         &lt;cpuPower&gt;24&lt;/cpuPower&gt;
                         &lt;memory&gt;96&lt;/memory&gt;
-                        &lt;name&gt;Dell Server 1&lt;/name&gt;
+                        &lt;name&gt;RHEL Server 1&lt;/name&gt;
                         &lt;networkBandwidth&gt;16&lt;/networkBandwidth&gt;
                   &lt;/computer&gt;
                   &lt;requiredCpuPower&gt;1&lt;/requiredCpuPower&gt;
@@ -172,7 +172,7 @@ status=NOT_SOLVING means this is the best solution.
                         &lt;cost&gt;4800&lt;/cost&gt;
                         &lt;cpuPower&gt;24&lt;/cpuPower&gt;
                         &lt;memory&gt;96&lt;/memory&gt;
-                        &lt;name&gt;Dell Server 1&lt;/name&gt;
+                        &lt;name&gt;RHEL Server 1&lt;/name&gt;
                         &lt;networkBandwidth&gt;16&lt;/networkBandwidth&gt;
                   &lt;/computer&gt;
                   &lt;requiredCpuPower&gt;1&lt;/requiredCpuPower&gt;
@@ -184,7 +184,7 @@ status=NOT_SOLVING means this is the best solution.
                         &lt;cost&gt;4800&lt;/cost&gt;
                         &lt;cpuPower&gt;24&lt;/cpuPower&gt;
                         &lt;memory&gt;96&lt;/memory&gt;
-                        &lt;name&gt;Dell Server 1&lt;/name&gt;
+                        &lt;name&gt;RHEL Server 1&lt;/name&gt;
                         &lt;networkBandwidth&gt;16&lt;/networkBandwidth&gt;
                   &lt;/computer&gt;
                   &lt;requiredCpuPower&gt;1&lt;/requiredCpuPower&gt;
@@ -196,7 +196,7 @@ status=NOT_SOLVING means this is the best solution.
                         &lt;cost&gt;660&lt;/cost&gt;
                         &lt;cpuPower&gt;6&lt;/cpuPower&gt;
                         &lt;memory&gt;4&lt;/memory&gt;
-                        &lt;name&gt;Dell Server 2&lt;/name&gt;
+                        &lt;name&gt;RHEL Server 2&lt;/name&gt;
                         &lt;networkBandwidth&gt;6&lt;/networkBandwidth&gt;
                   &lt;/computer&gt;
                   &lt;requiredCpuPower&gt;1&lt;/requiredCpuPower&gt;
